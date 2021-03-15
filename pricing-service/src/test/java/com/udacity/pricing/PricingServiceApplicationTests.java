@@ -22,6 +22,7 @@ public class PricingServiceApplicationTests {
 
 	@MockBean
 	PricingService pricingService;
+
 	@Autowired
 	MockMvc mockMvc;
 
